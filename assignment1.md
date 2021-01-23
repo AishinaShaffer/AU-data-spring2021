@@ -54,3 +54,7 @@
       * The graph is at the very bottom of the story, I feel like it may have a bigger impact if it were higher up, perhaps after the first section
     * Rate effectiveness on scale of 1-5.
       * 3, I personally don't have trouble reading this graph, but the colors may confuse some, and without a source there's no way to validate the data, making the chart pretty much useless.
+
+-----
+**Pitch**
+West Virginia, which historically has had terrible access to healthcare for residents in rural areas, is currently #1 in administering COVID-19 vaccines across the country. I want to know how a state with such poor access to healthcare is doing this. Data should be available from the West Virginia Department of Health and perhaps West Virginia University Medicine. I used to work for WVU Medicine, and WV's COVID-19 czar, who was appointed by the governor, is Clay Marsh, my former boss. I also worked in comms for WVU's School of Medicine, and know who to contact to set up an interview.
