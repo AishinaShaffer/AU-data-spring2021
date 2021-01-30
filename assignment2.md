@@ -39,5 +39,5 @@ Our project aims to determine who was impacted most by COVID-related closures an
   - WMATA has received emergency funding during the pandemic. Are they putting the money toward long-term projects like the Silver Line, or is it solely being dedicated to making up losses in ridership and advertising revenue? Are these funds restricted to FY’ 21 or can they be carried over to FY ‘22?
 - **Who has the most to lose/who will be the most negatively impacted by these changes/issues in the services and in the budget?**
   - We would like to delve deeper into what it means for a common user of the service and the implications of the closure of stations. Also in the future, what does it mean the cuts in the budget for future operations. 2020 was the worst year in terms of ridership, because of the pandemic, what would be the impact for the cutting of funds and changes in the future budget. 
-- **The social impact of the cuts. **
+- **The social impact of the cuts.**
   - We would like to find data to explore the social impact, and by social impact, we are talking about going deeper to neighborhoods, social class and trying to understand how Washingtonians changed their transportation habits during the pandemic. What are the alternatives now.To cover this side, we suggest interviews with users or former users of the services. 
