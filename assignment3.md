@@ -20,10 +20,10 @@ Here's what I'm looking for:
 - Preferred learning option (choose between in-person, virtual and hybrid)
 - Concerns (user submitted info)
 
-Student Age | City | School | Race | Preferred Learning Option | Reasoning
--------
-9 | Charleston | Ruffner Elementary School | Mixed | Virtual | Minimizing exposure
-17 | Charleston | Capital High School | Mixed | In-Person | Student enrolled in program that is only in-person
-15 | Charleston | George Washington High School | White | In-person | Virtual learning environment unsuitable for student's learning style
-12 | South Charleston | South Charleston High School | Black | Virtual | Student is immunocompromised
-5 | Dunbar | Dunbar Primary School | White | Hybrid | Concerned about minimizing exposure, but also student's development of social skills
+| Student Age | City | School | Race | Preferred Learning Option | Reasoning |
+| - | - | - | - | - | - |
+| 9 | Charleston | Ruffner Elementary School | Mixed | Virtual | Minimizing exposure |
+| 17 | Charleston | Capital High School | Mixed | In-Person | Student enrolled in program that is only in-person |
+| 15 | Charleston | George Washington High School | White | In-person | Virtual learning environment unsuitable for student's learning style |
+| 12 | South Charleston | South Charleston High School | Black | Virtual | Student is immunocompromised |
+| 5 | Dunbar | Dunbar Primary School | White | Hybrid | Concerned about minimizing exposure, but also student's development of social skills |
