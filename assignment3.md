@@ -5,6 +5,17 @@ Three weeks ago (as of Feb. 5), the Kanawha County Board of Education expressed 
 I'm interested in how parents in Kanawha County feel about schools opening up, and whether or not their child will continue virtual learning or swtich to in-person. I think this information would be beneficial to state officials when considering what moves are best for the overall wellbeing of West Virginians.
 
 Here's what I'm looking for:
+- Student age (identifying trends in age groups)
 - Location, based on the nine main cities in Kanawha County (could lead to trends based on population density of each city)
-- Number of students in household (how many students are effected)
-- Grade Level(s) (general age of students)
+  - Charleston
+  - Dunbar
+  - Marmet
+  - Montgomery
+  - Nitro
+  - Smithers
+  - South Charleston
+  - St. Albans
+- School (comparing data between schools in different cities
+- Race (identifying trends in racial groups)
+- Preferred learning option (choose between in-person, virtual and hybrid)
+- Concerns (user submitted info)
