@@ -2,9 +2,9 @@ I read an article from my hometown newspaper on [classrooms reopening to 5 days-
 
 Three weeks ago (as of Feb. 5), the Kanawha County Board of Education expressed hesitancy in reopening schools for in-person instruction. Board members all voted to keep classrooms closed, but conceded that they would re-open if the state BOE ordered them to.
 
-I'm interested in how parents in Kanawha County feel about schools opening up, and whether or not their child will continue virtual learning or swtich to in-person. I think this information would be beneficial to state officials when considering what moves are best for the overall wellbeing of West Virginians.
+I'm interested in how parents in Kanawha County feel about schools opening up, and whether or not their child will continue virtual learning or swtich to in-person. I think this information would be beneficial judging how state officials are making decisions based on the feedback of their constituents.
 
-Here's what I'm looking for:
+Data would be collected through a parent survey. Here's what I'm looking for:
 - Student age (identifying trends in age groups)
 - Location, based on the nine main cities in Kanawha County (could lead to trends based on population density of each city)
   - Charleston
