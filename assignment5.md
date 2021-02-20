@@ -21,12 +21,12 @@ Cleaning data:
 7. Named new Column Z END_TIME
 9. Used regex in Sublime to fix blank values in Column V to read N/A
 
-This story is under the assumption that the number of homicides is rising in D.C., I would have to study datasets from previous years to actually know that.
+This story is under the assumption that violent crimes are rising in D.C., I would have to study datasets from previous years to actually know that.
 
 Headline: 
 
-Violent crimes in D.C. rise
+Violent crime rate rises in D.C.
 
 Nut Graf:
 
-With the number of violent crime offenses rising in the District, the areas that have been hit the hardest are Wards 7 and 8. In just under two months, D.C. neighborhoods across the Potomac River have reported 214 violent crime offenses--nearly half of all violent crimes reported in the entirety of D.C.
+With the number of violent crime offenses rising in the District, the areas that have been hit the hardest are Wards 7 and 8. In just under two months, D.C. neighborhoods across the Potomac River have reported 214 violent crime offenses--nearly half of all violent crimes reported in the entirety of D.C. so far this year.
