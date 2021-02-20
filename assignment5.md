@@ -5,9 +5,18 @@
      - Ward 5 beats 2 by exactly one offense at 220
    - But neighborhood cluster 2 in Ward 1, which covers Columbia Heights, Mt Pleasant, Pleasant Plains and Park View, has the most reported cases of theft at 97
 1. Which wards see the most violent crime?
+   - Unsurprisingly, Wards 7 and 8 see the most violent crimes
+   - However this count does not include burglary, as it isn't always a violent crime, so there may be variation in the actual number
 1. Which neighborhood has the most violent crime in DC?
+   - Neighborhood cluster 39, which is in Ward 8 and includes Congress Heights, Bellevue and Washington Highlands with 43 offenses
+   - Cluster 2 in Ward 1, which covers Columbia Heights, Mt. Pleasant, Pleasant Plains and Park View, comes in second with 38 reported offenses
 
-A link to the dataset (which you can include in your repository), your questions, as well as the answers to those questions.
-Write down all steps used to clean and analyze the data, including any Excel formulas.
-Write a sample headline and nut graf based on the most interesting of the three questions.
-This analysis can be related to your final project, but does not have to be.  
+Cleaning data:
+1. Resized column width
+2. Split Column D in two, separating the date and time
+3. Named new Column E REPORT_TIME
+4. Split Column W in two, separating date and time
+5. Named new Column X START_TIME
+6. Split Column Y in two, separating date and time
+7. Named new Column Z END_TIME
+9. Used regex in Sublime to fix blank values in Column V to read N/A
